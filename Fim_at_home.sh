@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-FILES_TO_MONITOR=("TEST_FIM_IN_HOUSE" "MMMMMMTEST.TXT")  #Put you files Here
+FILES_TO_MONITOR=("TEST_FIM_IN_HOUSE" "MMMMMMTEST.TXT")  #Put your files Here
 
 
 HASH_FILE="FILE_FIM_HASHES_SAVE.txt"
